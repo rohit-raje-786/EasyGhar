@@ -50,7 +50,7 @@ if(!$imgresult){
 <!-- Mirrored from thebootstrapthemes.com/live/thebootstrapthemes-realestate/property-detail.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2017 02:45:10 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-<title>Property Details - Mridha Real Estate</title>
+<title>Property Details - Easy Ghar</title>
 <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
@@ -124,7 +124,7 @@ if(!$imgresult){
 
 <!-- Header Starts -->
 <div class="header">
-<a href="index.php"><img src="images/logo.png" alt="Realestate"></a>
+<a href="index.php"><img src="images/logo1.png" alt="Realestate" style="width:100px;height:80px"></a>
 
             <div class="menu">
               <ul class="pull-right">
@@ -207,7 +207,7 @@ if(!$imgresult){
       <div class="carousel-inner">
       	<!-- Item 0 -->
         <div class="item active">
-          <img src="images/properties/default.jpg" class="properties" alt="properties" />
+          <img src="images/properties/liv-1-1.jpg" class="properties" alt="properties"  />
         </div>
         <!-- #Item 0 -->
         
@@ -322,10 +322,10 @@ if(!$imgresult){
 
              <div class="col-lg-3 col-sm-3">
                     <h4>Contact us</h4>
-                    <p><b>Mridha Real Estate</b><br>
+                    <p><b>Easy Ghar</b><br>
 <span class="glyphicon glyphicon-map-marker"></span> 8290 Walk Street, Australia <br>
-<span class="glyphicon glyphicon-envelope"></span> salihanmridha@gmail.com<br>
-<span class="glyphicon glyphicon-earphone"></span> (880) 19-44709281</p>
+<span class="glyphicon glyphicon-envelope"></span> rp589006@gmail.com<br>
+<span class="glyphicon glyphicon-earphone"></span> +91-7021007903</p>
             </div>
         </div>
 <p class="copyright">Copyright 2017. All rights reserved.	</p>
